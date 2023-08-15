@@ -31,7 +31,7 @@ export default function Web() {
               Get started
             </Button>
             <Button href="/blog" intent="secondary">
-              Deploy Now
+              Blog
             </Button>
           </div>
         </div>
